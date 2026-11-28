@@ -24,6 +24,19 @@ usando o Chrome do PC do Caio com a extensão Claude in Chrome, já logado no Me
    Não commitar `robo/leituras.json`.
 7. Fechar as abas abertas na rodada.
 
+## Como ler rápido (Mercado Livre)
+
+O link meli.la abre o perfil social do afiliado com um card do produto (preço atual, preço riscado,
+parcelamento e selo de evento). Numa aba do Mercado Livre, dá para abrir cada link num iframe invisível
+(mesmo domínio depois do redirecionamento) e ler o card de todos os produtos com um único script,
+sem trocar de aba. Se o card mostrar "Outra opção de compra", usar o preço dessa opção quando for menor.
+"Anúncio pausado" = `available: false`.
+
+## Shopee
+
+A Shopee só mostra o preço com a conta logada; sem login ela abre a verificação de tráfego.
+Nesse caso, pular a Shopee e avisar o Caio.
+
 ## Regras
 
 - Só ler. Nunca clicar em comprar, adicionar ao carrinho, seguir loja, favoritar ou aceitar nada.

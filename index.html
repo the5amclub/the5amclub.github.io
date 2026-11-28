@@ -448,8 +448,8 @@ function card(it, cat){
   let deal;
   const outRecent = it.available===false && it.checked_at && (Date.now()-new Date(it.checked_at).getTime()) < FRESH_HOURS*3600e3;
   if(outRecent){
-    deal = `<div class="deal"><span class="lbl">esgotado no momento</span>
-      <span class="seen">Sem estoque na última checagem, ${ago(it.checked_at)}. Pode voltar a qualquer hora.</span></div>
+    deal = `<div class="deal"><span class="lbl">indisponível no momento</span>
+      <span class="seen">Anúncio pausado ou sem estoque na checagem ${ago(it.checked_at)}. Pode voltar a qualquer hora.</span></div>
       <a class="buy" href="${esc(it.url)}" ${rel}>ver <span class="s-short">na loja</span><span class="s-long">${storeIn(it)}</span> ↗</a>`;
   } else if(fresh){
     const note = it.pix_price ? `no Pix · ${brl(it.price)} em outros meios` : (it.price_note||"");

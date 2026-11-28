@@ -29,6 +29,7 @@ PRODUCTS = os.path.join(ROOT, "data", "products.json")
 FRESH_HOURS = 13          # 3 leituras por dia (6h, 12h, 19h): maior intervalo é 19h → 6h = 11 h
 MAX_DROP = 0.75           # queda maior que 75% de uma vez parece leitura errada: não grava, só avisa
 HISTORY = 120
+MAX_INFLADO = 2.0        # "de" maior que o dobro do preço atual não é mostrado
 
 
 def now_iso():
@@ -98,6 +99,9 @@ def cmd_aplicar(path):
             suspeitos.append(f"{it['n']}: {before} → {price}")
             continue
         orig = r.get("original_price")
+        if orig and orig > price * MAX_INFLADO:
+            print(f"  (preço riscado de {orig} ignorado: mais que o dobro do atual, parece inflado)")
+            orig = None
         it.update({
             "price": round(float(price), 2),
             "original_price": round(float(orig), 2) if orig and orig > price else None,

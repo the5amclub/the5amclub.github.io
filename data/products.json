@@ -1,5 +1,5 @@
 {
- "updated_at": null,
+ "updated_at": "2026-11-28T20:35:00Z",
  "manha": [
   {
    "hora": "5:00",
@@ -88,25 +88,32 @@
      "url": "https://meli.la/2QhYUWf",
      "store": "Mercado Livre",
      "img": "assets/img/whey-tasty-chocomaltine.webp",
-     "price": 189.05,
-     "original_price": 209,
-     "price_note": "no Pix · R$ 199 em 3x sem juros",
+     "price": 209.99,
+     "original_price": 299.0,
+     "price_note": "ou 3x de R$ 70 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T18:38:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:38:00Z",
        "p": 189.05
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 209.99
       }
      ],
-     "ref_high": 209,
+     "ref_high": 299,
      "curadoria": {
       "por_que": "",
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Whey Adaptogen Tasty 3W 912 g · Brigadeiro",
@@ -115,16 +122,20 @@
      "url": "https://meli.la/1oRAmxt",
      "store": "Mercado Livre",
      "img": "assets/img/whey-tasty-brigadeiro.webp",
-     "price": 216,
+     "price": 216.0,
      "original_price": null,
      "price_note": "ou 3x de R$ 72 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T18:38:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:38:00Z",
        "p": 216
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 216.0
       }
      ],
      "ref_high": 249,
@@ -133,7 +144,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Whey JoyPro Shark Pro 900 g · Brigadeiro",
@@ -142,25 +156,32 @@
      "url": "https://meli.la/1xL7bZp",
      "store": "Mercado Livre",
      "img": "assets/img/whey-joypro.webp",
-     "price": 107.1,
-     "original_price": 119,
-     "price_note": "no Pix · R$ 119 em 4x sem juros",
+     "price": 114.9,
+     "original_price": 159.9,
+     "price_note": "ou 3x de R$ 38,30 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T18:38:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:38:00Z",
        "p": 107.1
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 114.9
       }
      ],
-     "ref_high": 119,
+     "ref_high": 160,
      "curadoria": {
       "por_que": "",
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Caffeine Army Supercoffee Língua de Gato 220 g",
@@ -169,16 +190,20 @@
      "url": "https://meli.la/14iJDRJ",
      "store": "Mercado Livre",
      "img": "assets/img/supercoffee.webp",
-     "price": 119.29,
+     "price": 99.45,
      "original_price": 154.9,
-     "price_note": "ou 4x de R$ 29,82 sem juros",
-     "event": "Black Friday",
-     "checked_at": "2026-11-22T17:57:00Z",
-     "price_source": "print",
+     "price_note": "ou 4x de R$ 29,25 sem juros",
+     "event": null,
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:57:00Z",
        "p": 119.29
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 99.45
       }
      ],
      "ref_high": 155,
@@ -188,7 +213,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kit Creatina Gummy My Fit (2 potes)",
@@ -200,12 +228,16 @@
      "price": 150.34,
      "original_price": 208.95,
      "price_note": "ou 3x de R$ 50,11 sem juros",
-     "event": "Oferta imperdível",
-     "checked_at": "2026-11-22T17:57:00Z",
-     "price_source": "print",
+     "event": null,
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:57:00Z",
+       "p": 150.34
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
        "p": 150.34
       }
      ],
@@ -215,7 +247,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Whey isolado 900 g",
@@ -284,16 +319,20 @@
      "url": "https://meli.la/2HQ1Hvs",
      "store": "Mercado Livre",
      "img": "assets/img/short-saia-naraka.webp",
-     "price": 29.9,
-     "original_price": 79.99,
+     "price": 28.4,
+     "original_price": null,
      "price_note": "",
      "event": null,
-     "checked_at": "2026-11-22T18:38:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:38:00Z",
        "p": 29.9
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 28.4
       }
      ],
      "ref_high": 80,
@@ -303,7 +342,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kit 6 pares de meias Lupo cano curto",
@@ -312,16 +354,20 @@
      "url": "https://meli.la/34dC7Av",
      "store": "Mercado Livre",
      "img": "assets/img/meias-lupo-6.webp",
-     "price": 64.99,
-     "original_price": 159.98,
-     "price_note": "ou 3x de R$ 21,66 sem juros",
+     "price": 47.49,
+     "original_price": null,
+     "price_note": "",
      "event": null,
-     "checked_at": "2026-11-22T18:38:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:38:00Z",
        "p": 64.99
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 47.49
       }
      ],
      "ref_high": 160,
@@ -330,7 +376,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Tênis adidas Adizero Drive RC feminino",
@@ -339,16 +388,20 @@
      "url": "https://meli.la/1ySVVue",
      "store": "Mercado Livre",
      "img": "assets/img/adizero-drive-rc.webp",
-     "price": 746,
+     "price": 746.0,
      "original_price": 899.9,
      "price_note": "ou 3x de R$ 248,67 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T18:38:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:38:00Z",
        "p": 746
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 746.0
       }
      ],
      "ref_high": 900,
@@ -357,7 +410,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Tênis adidas X_PLR Path feminino",
@@ -366,16 +422,20 @@
      "url": "https://meli.la/1ukpBen",
      "store": "Mercado Livre",
      "img": "assets/img/adidas-xplr-path.webp",
-     "price": 377.99,
+     "price": 357.99,
      "original_price": 499.99,
      "price_note": "ou 3x de R$ 126 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T18:38:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:38:00Z",
        "p": 377.99
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 357.99
       }
      ],
      "ref_high": 500,
@@ -384,7 +444,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Top Lupo Sport Seamless Max",
@@ -393,16 +456,20 @@
      "url": "https://meli.la/2hvnGJb",
      "store": "Mercado Livre",
      "img": "assets/img/top-lupo.webp",
-     "price": 113.05,
-     "original_price": 119,
-     "price_note": "no Pix · R$ 119 em outros meios",
+     "price": 119.0,
+     "original_price": null,
+     "price_note": "ou 4x de R$ 29,75 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T17:57:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:57:00Z",
        "p": 113.05
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 119.0
       }
      ],
      "ref_high": 119,
@@ -411,7 +478,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Legging de compressão",
@@ -450,16 +520,20 @@
      "url": "https://meli.la/31M8xj2",
      "store": "Mercado Livre",
      "img": "assets/img/bike-kikos-s1200.webp",
-     "price": 1708,
-     "original_price": 3699,
-     "price_note": "ou 3x de R$ 569,33 sem juros",
+     "price": 1647.0,
+     "original_price": null,
+     "price_note": "ou 3x de R$ 549,23 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T18:30:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:30:00Z",
        "p": 1708
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 1647.0
       }
      ],
      "ref_high": 3699,
@@ -468,7 +542,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Bola de pilates 65 cm com bomba",
@@ -477,16 +554,20 @@
      "url": "https://meli.la/18H1vbv",
      "store": "Mercado Livre",
      "img": "assets/img/bola-pilates.webp",
-     "price": 44.03,
+     "price": 44.73,
      "original_price": 69.9,
      "price_note": "",
      "event": null,
-     "checked_at": "2026-11-22T18:30:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:30:00Z",
        "p": 44.03
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 44.73
       }
      ],
      "ref_high": 70,
@@ -495,7 +576,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kit halteres e anilhas ajustáveis 15 kg",
@@ -504,16 +588,20 @@
      "url": "https://meli.la/241xkQ1",
      "store": "Mercado Livre",
      "img": "assets/img/halteres-15kg.webp",
-     "price": 228,
-     "original_price": 630,
+     "price": 228.0,
+     "original_price": null,
      "price_note": "ou 3x de R$ 76 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T17:57:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:57:00Z",
        "p": 228
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 228.0
       }
      ],
      "ref_high": 630,
@@ -522,7 +610,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Par de halteres Le Must 5 kg · Sereia",
@@ -532,14 +623,18 @@
      "store": "Mercado Livre",
      "img": "assets/img/halteres-le-must-sereia.webp",
      "price": 311.2,
-     "original_price": 389,
+     "original_price": 389.0,
      "price_note": "ou 6x de R$ 51,87 sem juros",
      "event": "Black Friday",
-     "checked_at": "2026-11-28T09:47:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-28T09:47:00Z",
+       "p": 311.2
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
        "p": 311.2
       }
      ],
@@ -550,7 +645,10 @@
       "notas": {},
       "checou": []
      },
-     "opcoes": "3 cores"
+     "opcoes": "3 cores",
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Par de halteres Le Must 4 kg · Peach",
@@ -560,14 +658,18 @@
      "store": "Mercado Livre",
      "img": "assets/img/halteres-le-must-4kg-peach.webp",
      "price": 289.49,
-     "original_price": 339,
+     "original_price": 339.0,
      "price_note": "ou 6x de R$ 48,25 sem juros",
      "event": null,
-     "checked_at": "2026-11-28T09:56:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-28T09:56:00Z",
+       "p": 289.49
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
        "p": 289.49
       }
      ],
@@ -578,7 +680,10 @@
       "notas": {},
       "checou": []
      },
-     "opcoes": "6 cores"
+     "opcoes": "6 cores",
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Pesos de pulso e tornozelo Le Must Duo 2,7 kg · Sereia",
@@ -588,14 +693,18 @@
      "store": "Mercado Livre",
      "img": "assets/img/braceletes-le-must-sereia.webp",
      "price": 313.47,
-     "original_price": 389,
+     "original_price": 389.0,
      "price_note": "ou 6x de R$ 52,25 sem juros",
      "event": "Black Friday",
-     "checked_at": "2026-11-28T09:56:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-28T09:56:00Z",
+       "p": 313.47
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
        "p": 313.47
       }
      ],
@@ -606,7 +715,10 @@
       "notas": {},
       "checou": []
      },
-     "opcoes": "5 cores"
+     "opcoes": "5 cores",
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kit Le Must pesos de pulso 1,8 kg + halteres 4 kg · Greige",
@@ -619,21 +731,28 @@
      "original_price": 621.89,
      "price_note": "ou 9x de R$ 51,10 sem juros",
      "event": null,
-     "checked_at": "2026-11-28T09:56:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-28T09:56:00Z",
        "p": 459.9
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 459.9
       }
      ],
-     "ref_high": 621.89,
+     "ref_high": 622,
      "curadoria": {
       "por_que": "",
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kit Le Must Glow: pesos de pulso 2,7 kg + halteres 5 kg · Peach",
@@ -646,21 +765,28 @@
      "original_price": 632.19,
      "price_note": "ou 10x de R$ 55,43 sem juros",
      "event": null,
-     "checked_at": "2026-11-28T09:56:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-28T09:56:00Z",
        "p": 554.29
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 554.29
       }
      ],
-     "ref_high": 632.19,
+     "ref_high": 633,
      "curadoria": {
       "por_que": "",
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Tapete de yoga e pilates Le Must PU 5 mm · Dark Grey",
@@ -670,14 +796,18 @@
      "store": "Mercado Livre",
      "img": "assets/img/tapete-le-must-dark-grey.webp",
      "price": 273.32,
-     "original_price": 389,
+     "original_price": 389.0,
      "price_note": "ou 6x de R$ 45,55 sem juros",
      "event": null,
-     "checked_at": "2026-11-28T09:56:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-28T09:56:00Z",
+       "p": 273.32
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
        "p": 273.32
       }
      ],
@@ -687,7 +817,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Par de halteres rosa 1 kg · peso de mão",
@@ -802,8 +935,8 @@
      "original_price": null,
      "price_note": "",
      "event": null,
-     "checked_at": "2026-11-22T17:57:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:57:00Z",
@@ -816,7 +949,8 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "available": false
     },
     {
      "n": "Medicube Deep Vitamin C 55 g",
@@ -825,25 +959,32 @@
      "url": "https://meli.la/1ABqUdu",
      "store": "Mercado Livre",
      "img": "assets/img/medicube-vitc.webp",
-     "price": 78.74,
+     "price": 99.0,
      "original_price": null,
-     "price_note": "",
+     "price_note": "ou 3x de R$ 33 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T17:57:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:57:00Z",
        "p": 78.74
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 99.0
       }
      ],
-     "ref_high": 91,
+     "ref_high": 99,
      "curadoria": {
       "por_que": "",
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Sallve firmador pró-colágeno 30 g",
@@ -856,11 +997,15 @@
      "original_price": null,
      "price_note": "ou 3x de R$ 46,63 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T17:57:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:57:00Z",
+       "p": 139.9
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
        "p": 139.9
       }
      ],
@@ -870,7 +1015,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Sallve bastão antioleosidade 15 g",
@@ -879,16 +1027,20 @@
      "url": "https://meli.la/2MyjtGU",
      "store": "Mercado Livre",
      "img": "assets/img/sallve-bastao.webp",
-     "price": 90.02,
+     "price": 74.9,
      "original_price": null,
-     "price_note": "ou 3x de R$ 30,01 sem juros",
+     "price_note": "ou 3x de R$ 24,97 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T17:57:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:57:00Z",
        "p": 90.02
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 74.9
       }
      ],
      "ref_high": 104,
@@ -897,7 +1049,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kit Principia skincare pele sensível + protetor FPS 60",
@@ -907,16 +1062,20 @@
      "store": "Mercado Livre",
      "official": true,
      "img": "assets/img/principia-kit-skincare.webp",
-     "price": 95,
-     "original_price": 137,
-     "price_note": "ou 3x de R$ 31,67 sem juros",
+     "price": 78.99,
+     "original_price": 137.0,
+     "price_note": "ou 3x de R$ 26,33 sem juros",
      "event": "Black Friday",
-     "checked_at": "2026-11-22T17:44:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T17:44:00Z",
        "p": 95
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 78.99
       }
      ],
      "ref_high": 137,
@@ -925,7 +1084,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Protetor solar FPS 50 esportivo",
@@ -979,16 +1141,20 @@
      "url": "https://meli.la/1HoQjwv",
      "store": "Mercado Livre",
      "img": "assets/img/coqueteleira-zelvi.webp",
-     "price": 28.99,
-     "original_price": 99,
+     "price": 28.12,
+     "original_price": null,
      "price_note": "",
      "event": null,
-     "checked_at": "2026-11-22T18:30:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:30:00Z",
        "p": 28.99
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 28.12
       }
      ],
      "ref_high": 99,
@@ -998,7 +1164,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Coqueteleira de aço inox 900 ml",
@@ -1007,16 +1176,20 @@
      "url": "https://meli.la/31s5EVS",
      "store": "Mercado Livre",
      "img": "assets/img/coqueteleira-inox-900.webp",
-     "price": 52,
+     "price": 49.9,
      "original_price": 78.9,
      "price_note": "",
      "event": null,
-     "checked_at": "2026-11-22T18:46:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:46:00Z",
        "p": 52
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 49.9
       }
      ],
      "ref_high": 79,
@@ -1025,7 +1198,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kit 3 mini hip bands EX",
@@ -1038,11 +1214,15 @@
      "original_price": 23.22,
      "price_note": "",
      "event": null,
-     "checked_at": "2026-11-22T18:30:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:30:00Z",
+       "p": 20.2
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
        "p": 20.2
       }
      ],
@@ -1053,7 +1233,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kit 3 faixas de cabelo para treino",
@@ -1062,16 +1245,20 @@
      "url": "https://meli.la/2h7M7d7",
      "store": "Mercado Livre",
      "img": "assets/img/faixas-cabelo.webp",
-     "price": 19.95,
+     "price": 16.59,
      "original_price": 28.5,
      "price_note": "",
-     "event": null,
-     "checked_at": "2026-11-22T18:30:00Z",
-     "price_source": "print",
+     "event": "Oferta relâmpago",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:30:00Z",
        "p": 19.95
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 16.59
       }
      ],
      "ref_high": 29,
@@ -1080,7 +1267,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Xiaomi Smart Band 10",
@@ -1089,16 +1279,20 @@
      "url": "https://meli.la/22ZtQoL",
      "store": "Mercado Livre",
      "img": "assets/img/xiaomi-band10.webp",
-     "price": 308,
+     "price": 317.0,
      "original_price": null,
-     "price_note": "",
+     "price_note": "na opção de compra mais barata do anúncio",
      "event": null,
-     "checked_at": "2026-11-22T18:30:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:30:00Z",
        "p": 308
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 291.64
       }
      ],
      "ref_high": 355,
@@ -1107,7 +1301,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": 291.64,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Samsung Galaxy Watch8 40 mm LTE",
@@ -1116,16 +1313,20 @@
      "url": "https://meli.la/1Z9k9YW",
      "store": "Mercado Livre",
      "img": "assets/img/galaxy-watch8.webp",
-     "price": 1499,
-     "original_price": 2499,
-     "price_note": "ou 10x de R$ 149,90 · R$ 1.424,05 com cupom",
+     "price": 1499.0,
+     "original_price": 2499.0,
+     "price_note": "ou 10x de R$ 149,90 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T18:30:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:30:00Z",
        "p": 1499
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 1499.0
       }
      ],
      "ref_high": 2499,
@@ -1134,7 +1335,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Apple Watch Series 11 GPS 42 mm",
@@ -1143,16 +1347,20 @@
      "url": "https://meli.la/1WnA1ZA",
      "store": "Mercado Livre",
      "img": "assets/img/apple-watch-s11.webp",
-     "price": 3150,
+     "price": 3168.0,
      "original_price": null,
-     "price_note": "ou 3x de R$ 1.050 sem juros",
+     "price_note": "ou 3x de R$ 1.056 sem juros",
      "event": null,
-     "checked_at": "2026-11-22T18:30:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T18:30:00Z",
        "p": 3150
+      },
+      {
+       "t": "2026-11-28T20:35:00Z",
+       "p": 3168.0
       }
      ],
      "ref_high": 3623,
@@ -1161,7 +1369,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Strap e munhequeira",
@@ -1194,8 +1405,8 @@
      "original_price": null,
      "price_note": "ou 3x de R$ 74 sem juros",
      "event": null,
-     "checked_at": "2026-11-23T10:52:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:35:00Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-23T10:52:00Z",
@@ -1208,7 +1419,8 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "available": false
     },
     {
      "n": "Balança de bioimpedância G-Tech 180 kg",
@@ -1242,5 +1454,6 @@
     }
    ]
   }
- ]
+ ],
+ "fresh_hours": 13
 }
