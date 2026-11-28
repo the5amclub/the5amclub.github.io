@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T20:35:00Z",
+ "updated_at": "2026-11-28T20:40:23Z",
  "manha": [
   {
    "hora": "5:00",
@@ -264,24 +264,33 @@
      "url": "https://s.shopee.com.br/7pv1WfxoBY",
      "store": "Shopee",
      "img": "assets/img/creatina-max-titanium.webp",
-     "price": 35.7,
-     "price_note": "ou 7x de R$ 5,72",
+     "price": 41.0,
+     "price_note": "ou 8x de R$ 5,79",
      "official": true,
-     "checked_at": "2026-11-22T20:44:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:40:23Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-22T20:44:00Z",
        "p": 35.7
+      },
+      {
+       "t": "2026-11-28T20:40:23Z",
+       "p": 41.0
       }
      ],
-     "ref_high": 36,
+     "ref_high": 41,
      "curadoria": {
       "por_que": "",
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "original_price": null,
+     "pix_price": null,
+     "event": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Pré-treino",
@@ -834,11 +843,15 @@
      "original_price": null,
      "price_note": "ou 12x de R$ 11,25",
      "event": null,
-     "checked_at": "2026-11-28T10:03:00Z",
-     "price_source": "print",
+     "checked_at": "2026-11-28T20:40:23Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-28T10:03:00Z",
+       "p": 110.2
+      },
+      {
+       "t": "2026-11-28T20:40:23Z",
        "p": 110.2
       }
      ],
@@ -849,7 +862,9 @@
       "notas": {},
       "checou": []
      },
-     "opcoes": "1 kg, 1,5 kg e 2 kg"
+     "opcoes": "1 kg, 1,5 kg e 2 kg",
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Kettlebell macio antiderrapante",
@@ -860,14 +875,18 @@
      "img": "assets/img/kettlebell-macio.webp",
      "price": 59.98,
      "original_price": null,
-     "price_note": "ou 11x de R$ 6,30",
+     "price_note": "a partir de: R$ 59,98 a R$ 89,98 conforme o peso",
      "event": null,
-     "opcoes": "rosa ou azul",
-     "checked_at": "2026-11-28T10:05:00Z",
-     "price_source": "print",
+     "opcoes": "rosa ou azul, vários pesos",
+     "checked_at": "2026-11-28T20:40:23Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-28T10:05:00Z",
+       "p": 59.98
+      },
+      {
+       "t": "2026-11-28T20:40:23Z",
        "p": 59.98
       }
      ],
@@ -877,7 +896,10 @@
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "pix_price": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Halteres ajustáveis",
@@ -1429,23 +1451,32 @@
      "url": "https://s.shopee.com.br/2qWMVQdHuv",
      "store": "Shopee",
      "img": "assets/img/balanca-gtech.webp",
-     "price": 123.41,
-     "price_note": "no Pix",
-     "checked_at": "2026-11-23T10:47:00Z",
-     "price_source": "print",
+     "price": 129.9,
+     "price_note": "ou 12x de R$ 12,60",
+     "checked_at": "2026-11-28T20:40:23Z",
+     "price_source": "navegador",
      "seen": [
       {
        "t": "2026-11-23T10:47:00Z",
        "p": 123.41
+      },
+      {
+       "t": "2026-11-28T20:40:23Z",
+       "p": 123.41
       }
      ],
-     "ref_high": 123.41,
+     "ref_high": 130,
      "curadoria": {
       "por_que": "",
       "testado": "",
       "notas": {},
       "checou": []
-     }
+     },
+     "original_price": null,
+     "pix_price": 123.41,
+     "event": null,
+     "available": true,
+     "lowest_30d": false
     },
     {
      "n": "Garrafa térmica 1 L",
